@@ -1,0 +1,8 @@
+{
+  "PHOTO_PATH": "src/test/resources/photo.jpg",
+  "ACTUAL_PHOTO_PATH": "src/test/resources/actualPhoto.jpg",
+
+  "POST_MESSAGE_LENGTH": 9,
+  "COMMENT_MESSAGE_LENGTH": 7,
+  "LIKES_NUMBER": 1
+}

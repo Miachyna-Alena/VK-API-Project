@@ -1,0 +1,13 @@
+{
+  "MESSAGE_PARAM": "message",
+  "POST_ID_PARAM": "post_id",
+  "ITEM_ID_PARAM": "item_id",
+  "ATTACHMENTS_PARAM": "attachments",
+  "TYPE_PARAM": "type",
+  "HASH_PARAM": "hash",
+  "SERVER_PARAM": "server",
+  "PHOTO_PARAM": "photo",
+  "OWNER_ID_PARAM": "owner_id",
+  "ACCESS_TOKEN_PARAM": "access_token",
+  "API_VERSION_PARAM": "v"
+}

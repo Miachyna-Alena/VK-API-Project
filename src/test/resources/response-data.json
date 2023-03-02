@@ -1,0 +1,17 @@
+{
+  "WALL_POST_METHOD": "wall.post",
+  "WALL_EDIT_METHOD": "wall.edit",
+  "CREATE_COMMENT_METHOD": "wall.createComment",
+  "GET_WALL_UPLOAD_SERVER_METHOD": "photos.getWallUploadServer",
+  "SAVE_WALL_PHOTO_METHOD": "photos.saveWallPhoto",
+  "DELETE_POST_METHOD": "wall.delete",
+
+  "RESPONSE_POST_ID_KEY": "response.post_id",
+  "RESPONSE_ID_KEY": "response.id",
+
+  "TYPE_PHOTO_KEY": "photo",
+
+  "RESPONSE_UPLOAD_URL_KEY": "response.upload_url",
+  "RESPONSE_LIKES_KEY": "response.liked",
+  "LIKES_IS_LIKED_KEY": "likes.isLiked"
+}
